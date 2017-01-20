@@ -42,7 +42,6 @@
     "zone.js": "0.7.2"
   },
   "dependencies": {
-    "moment": "^2.14.1",
-    "ng2-slimscroll": "^1.0.1"
+    "moment": "^2.14.1"
   }
 }
